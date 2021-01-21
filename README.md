@@ -2,7 +2,7 @@
 
 ## Get Started
 - Clone this repo to your exercises directory
-- Update the Readme with the items below
+- Update the Readme with the rquirements below
 
 ## Assignment
 
@@ -20,6 +20,6 @@
 - Complete your issues on this project
 - Follow along in the required tutorial and create the wireframe
 - Add the link to your figma wireframe to your README file
-  - You will be able to do tis by selecting the "Share" button in the top right hand of the screen.
+  - You will be able to do this by selecting the "Share" button in the top right hand of the screen.
     - Select Anyone with the Link can View
     - Copy Link and Paste into your README
